@@ -1,0 +1,2 @@
+# Clima_tempo-em_Javascript
+ Este programa permite aos usuários obter informações sobre o clima de uma cidade específica. Ao inserir o nome da cidade, ele consulta uma API de serviço meteorológico para obter dados atualizados sobre temperatura, condições climáticas e previsão do tempo. Os resultados são então exibidos de forma clara e compreensível para o usuário, fornecendo informações úteis para planejar suas atividades com base nas condições meteorológicas.
